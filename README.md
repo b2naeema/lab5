@@ -4,7 +4,7 @@ A simple CSS-only 3-tab layout is provided, with a tab for HTML5, CSS and JavaSc
 
 Use this to **add 5 things you know about each language** to **each section** actually using each language as follows! At least reach stage 2.
 
-## Stage 1: use HTML
+## Stage 1: use HTML in your work
 
 Add 5 different pieces of information about each language using the following elements:
 
