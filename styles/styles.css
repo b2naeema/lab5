@@ -129,6 +129,10 @@ label:last-child {
 }
 
 
+
+
+
+
 /* --------- table styles below here --------- */
 
 
@@ -151,3 +155,45 @@ label:last-child {
     display: inline;
   }
 }
+
+
+table, th, td {
+	text-align: left;	
+}
+
+
+
+table tr:nth-child(even){
+	background-color: khaki;
+	
+}
+
+ul, li{
+ list-style-type: none;	
+ margin: 0em;
+ padding: 0em;
+}
+
+
+li {
+padding: 0.5em;	
+border-top: solid 0.1em red;	
+}
+
+ul, li:nth-child(4){
+	border-bottom: solid 0.1em silver;
+}
+
+dt{
+	padding:1em;
+	color: OliveDrab;
+}
+dd{
+    padding:0.5em;
+	color: red;
+		
+}
+
+
+
+
